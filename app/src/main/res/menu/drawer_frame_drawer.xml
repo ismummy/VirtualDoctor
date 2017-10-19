@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><!--this is the drawer list menu-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_add_doctor"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Add Doctor" />
+        <item
+            android:id="@+id/nav_view_patient"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="View Patients" />
+        <item
+            android:id="@+id/nav_view_doctor"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="View Doctors" />
+        <item
+            android:id="@+id/nav_update_profile"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Update Profile" />
+    </group>
+
+
+</menu>

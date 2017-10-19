@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sex">
+        <item>Select gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="field">
+        <item>Select Department</item>
+        <item>Malaria consultancy</item>
+        <item>Cancer and malignancies</item>
+        <item>Typhoid</item>
+    </string-array>
+    <string-array name="bgroup">
+        <item>Select Blood Group</item>
+        <item>O+</item>
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O-</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+    </string-array>
+</resources>
